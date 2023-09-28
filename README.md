@@ -50,5 +50,8 @@ The dataset is split into training and testing sets to evaluate machine learning
 ## Model and Accuracy
 This project employs various machine learning models for house price prediction. The accuracy of these models is discussed in the notebooks and codebase.
 
+## Contributing
+Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or want to add new features, please follow our Contribution Guidelines.
+
 Contributing
 Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or want to add new features, please follow our Contribution Guidelines.
