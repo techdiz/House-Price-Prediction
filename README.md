@@ -53,5 +53,3 @@ This project employs various machine learning models for house price prediction.
 ## Contributing
 Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or want to add new features, please follow our Contribution Guidelines.
 
-Contributing
-Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or want to add new features, please follow our Contribution Guidelines.
